@@ -1,0 +1,28 @@
+{
+  "generator": "dev-tools/sync-port-project.py",
+  "managed_files": {
+    "LICENSE": "c50fefe494922a44840a7949d4a9b61cf18f49365870ca2a38d386e70c6ffacf",
+    "README.md": "b46c3e7192c59da6050270802fbb37d0b6dcfb76a0816a0d0d34328a549f1562",
+    "extension.js": "877f1de75da4c5f4a75f87fec2c97b4c7ca95b0cced00b9fb51cf579c495e247",
+    "lib/clockActions.js": "bcf8433ebc05045d38df411bc431c440b8100480aea3b65033006b95bd577895",
+    "lib/defaults.js": "7874fe1d6e3eb84ac7c579a3cefdeb775fbeff26a7ce7b9bcea27ab640aec51f",
+    "lib/store.js": "36c916d7d9a8fa0f3120fe0f019f46e16d01be30a2d83be48e5503fa27e24fb9",
+    "metadata.json": "bcb4e809d61863e14755d5f4a1205fb101058a84295fae04439ef5bcef281bd5",
+    "prefs.js": "2c2938c878400f7f57555e52c4378ba7453514069e77fce601f26b64f1c6ceae",
+    "stylesheet.css": "b48cd9bb69f46d95f652d9e175f58ba199dd8148265fc750121808ab7cf34b1e",
+    "widget.js": "c5f531b2d9e97479058c5c3824421669b77e6d78de2a57aa16ee7933768b9ab2"
+  },
+  "port": {
+    "alias": "world-clock",
+    "desktop": "gnome",
+    "kind": "extension",
+    "package_id": null,
+    "repo": "gnome-world-clock",
+    "uuid": "gnome-world-clock@curbsoftware"
+  },
+  "schema": 1,
+  "source_directory": "gnome-world-clock@curbsoftware",
+  "source_repository": "CurbSoftware/cinnamon-monorepo",
+  "source_revision": "dfb9fb7a7fff7cbcf0c48d3892fecd994a9c9059",
+  "source_worktree_dirty": false
+}

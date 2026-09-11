@@ -1,0 +1,12 @@
+{
+  "uuid": "gnome-world-clock@curbsoftware",
+  "name": "World Clock",
+  "description": "A grid of world timezone clocks on the desktop, dragged with Alt and edited in the preferences window",
+  "version": "1.0.0",
+  "shell-version": [
+    "45",
+    "46",
+    "47",
+    "48"
+  ]
+}
