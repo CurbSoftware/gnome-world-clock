@@ -1,3 +1,7 @@
+# Do Not Use
+
+Project merged to https://github.com/CurbSoftware/desktop-xlets.
+
 # World Clock for GNOME Shell
 
 A grid of world timezone clocks on the desktop. Each tile shows the
